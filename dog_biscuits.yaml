@@ -1,3 +1,6 @@
+overall:
+  generator: miraclesalad.com
+----
 glrtours:
   office365:
     username:brad@glrtours.com
@@ -10,3 +13,5 @@ luminfire
     Resource: New Grants Database
     Server: jerome.fmsecureserver.com
     Username: bradlowry
+    updates:
+      - 10/8/2019 7:20:00
